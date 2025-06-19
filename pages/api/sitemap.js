@@ -1,5 +1,5 @@
 export default async function handler(req, res) {
-  const baseUrl = 'https://tusitio.com'; // Reemplaza por tu URL real
+  const baseUrl = 'https://lab14seo.vercel.app/';
 
   // Simulación de base de datos
   const blogPosts = [
