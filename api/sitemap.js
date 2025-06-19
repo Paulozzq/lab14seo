@@ -1,5 +1,5 @@
 export default async function handler(req, res) {
-  const baseUrl = 'https://lab14seo.vercel.app/';
+  const baseUrl = 'https://lab14seo-qlsu.vercel.app';
 
   // Simulación de base de datos
   const blogPosts = [

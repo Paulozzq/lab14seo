@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://lab14seo.vercel.app/api/sitemap
+Sitemap: https://lab14seo-qlsu.vercel.app/api/sitemap
